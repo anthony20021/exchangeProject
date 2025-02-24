@@ -1,8 +1,8 @@
-import './App.css';
+import './css/App.css';
 import { useState, useEffect } from 'react';
-import Button from './Btn.jsx';
-import Input from './Input.jsx';
-import Select from './Select.jsx';
+import Button from './jsx/Btn.jsx';
+import Input from './jsx/Input.jsx';
+import Select from './jsx/Select.jsx';
 
 
 
